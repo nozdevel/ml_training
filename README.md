@@ -6,6 +6,9 @@ this environment use belows
 
 
 # set up for ubuntu
+```
+sudo apt install libbz2-dev
+```
 
 ```
 git clone https://github.com/pyenv/pyenv.git ~/.pyenv
